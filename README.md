@@ -7,7 +7,7 @@
     - Merkmal vom Klassifikationsproblem: Ungleichmäßige Daten
 - **Zeitprognose von drei verschiedenen Premium-Abos (6, 12, 24 Monate Laufzeit)**
 - **Analyse: Nutzer mit welchen Persönlichkeiten (Ergebnis vom Persönlichkeitstest) tendiert mehr zum Abschließen eines Premium-Abos?**
-- **Welches Bild-Kombi wirkt am attraktivsten? (Computer Vision + EDA)**
+- **Welches Profilbild-Kombi wirkt am attraktivsten? (Computer Vision + EDA)**
     - 1/4 Head shot (’Close-up’)
     - Body shot
     - Gesichtsausdrücke (‘Smile or Not’ Verhältnis)
