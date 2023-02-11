@@ -28,5 +28,22 @@
     
       3. Mit den Daten entwickelt man ein Prognose-Modell (wird zum Premium-Mitglied or nicht)
     
-    1. Passende Marketing-Kampagne einsetzen für Kunden, die eher unwahrscheinlich sind, ein Abo abzuschließen. 
+   - Passende Marketing-Kampagne einsetzen für Kunden, die eher unwahrscheinlich sind, ein Abo abzuschließen. 
 - **Clusteringanalyse**
+
+
+-------
+
+#### ✏️ Informationen über das Dating-App 
+
+- Circa 30 Minuten Persönlichkeitstest 
+- Like-Funktion für fast jeden Beitrag 
+- Smiley senden Funktion
+- Eisbrecher (Eins von zwei Bildern auswählen für 5-6 Mal)
+- Wenn man ein Basis-Nutzer ist kann man nur ein Mal auf die Nachricht antworten, danach muss man für ein Premium-Abo zahlen.
+- Auf Basis vom Persönlichkietstest bekommt man Liste (nach unten scrollen) von potentiellen Partnern 
+- Matchingpunkte Funktion, Diskussion in Forum : https://community.parship.de/forum/thema/wie-viele-matching-punkte-sollten-es-sein.7654/
+- Als Basis-Nutzer kann man nur verschwommenen Bilder von potentiellen Partnern ansehen. (Meiner Ansicht nach wäre es schön, wenn man nur das erste Bild ohne Verschwommeneffekt sehen könnte, aber dann erst nach dem zweiten Bild verschwommen lassen. Man wird dann MEHR NEUGIERIG, was letztendlich zum Premium-Abo führen könnte!)
+- Beim Testen des Apps habe ich selbst gemerkt, dass manche Nutzer mir Nachrichten mit E-Mail Adresse oder Instagram ID geschickt haben, um trotz des Basis-Abos weiter ins Gespräch zu kommen. 
+- Kundenbewertungen über das App: Die Anzahl von 1-Stern Bewertungen ist fast genauso hoch wie die 5-Stern Bewertungen, was ist aber beim ersten Blick sehr überraschend finde. Es liegt hauptsächlich auf die hohen Kosten und unflexiblen Laufdauer des Premium-Abos.
+
