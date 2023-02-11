@@ -29,8 +29,9 @@
       3. Mit den Daten entwickelt man ein Prognose-Modell (wird zum Premium-Mitglied or nicht)
     
    - Passende Marketing-Kampagne einsetzen für Kunden, die eher unwahrscheinlich sind, ein Abo abzuschließen. 
-- **Clusteringanalyse**
-
+- **Clusteringanalyse nach Ergebnissen aus Persönlichkeitstest**
+- **Customer Care Nachfrage-Prognose & Abo-Kündigung-Prognose**
+   - Daten zum üben: [Customer Subscription Data](https://www.kaggle.com/datasets/gsagar12/dspp1?select=customer_product.csv)
 
 -------
 
@@ -44,6 +45,12 @@
 - Auf Basis vom Persönlichkietstest bekommt man Liste (nach unten scrollen) von potentiellen Partnern 
 - Matchingpunkte Funktion, Diskussion in Forum : https://community.parship.de/forum/thema/wie-viele-matching-punkte-sollten-es-sein.7654/
 - Als Basis-Nutzer kann man nur verschwommenen Bilder von potentiellen Partnern ansehen. (Meiner Ansicht nach wäre es schön, wenn man nur das erste Bild ohne Verschwommeneffekt sehen könnte, aber dann erst nach dem zweiten Bild verschwommen lassen. Man wird dann MEHR NEUGIERIG, was letztendlich zum Premium-Abo führen könnte!)
+
+  Dazu ein Beitrag von einem Nutzern im Forum: 
+               
+      Der Parship-Test erfasst ja "nur" psychologische Aspekte. Zum Verlieben gehört ja auch der Körper (Aussehen, Geruch, Haptik usw) und viele weitere Eigenschaften (zB erotische Präferenzen), die in den Matching-Points gar nicht abgebildet werden.
+  
 - Beim Testen des Apps habe ich selbst gemerkt, dass manche Nutzer mir Nachrichten mit E-Mail Adresse oder Instagram ID geschickt haben, um trotz des Basis-Abos weiter ins Gespräch zu kommen. 
 - Kundenbewertungen über das App: Die Anzahl von 1-Stern Bewertungen ist fast genauso hoch wie die 5-Stern Bewertungen, was ist aber beim ersten Blick sehr überraschend finde. Es liegt hauptsächlich auf die hohen Kosten und unflexiblen Laufdauer des Premium-Abos.
+- Wer ist die Zielgruppe? -> Premium-Abo EDA -> Auf Basis vom EDA Marketing-Strategien entwickeln, um die Zielgruppe gezielt anzusprechen.
 
