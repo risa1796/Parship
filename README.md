@@ -32,6 +32,8 @@
 - **Clusteringanalyse nach Ergebnissen aus Persönlichkeitstest**
 - **Customer Care Nachfrage-Prognose & Abo-Kündigung-Prognose**
    - Daten zum üben: [Customer Subscription Data](https://www.kaggle.com/datasets/gsagar12/dspp1?select=customer_product.csv)
+   - Kategorien beim Kundenservice: 
+     Mein Profil, Fragenbogen&Ergebnis, Matches&Kontaktaufnahme, Login&Technik, Sicherheit&Seriösität, Angebot&Bestellung, Zahlung&Vertag
 
 -------
 
