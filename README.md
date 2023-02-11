@@ -3,7 +3,7 @@
 ### Ideen zu KI-Projekten
 
 - **Klassifikation von Fake-Profilen [Binäres Klassifikation]**
-    - Parameter: Durchschnittlicher Zeitverbrauch für Persönlichkeitstest, Anzahl von Profilfotos, Durchschnittliche Anzahl von Nachrichten, Inhalt von Nachrichten (z.B Hyper-Link, E-Mail Adresse), Profilangaben wie Beruf, Alter, usw.
+    - Parameter: Durchschnittlicher Zeitverbrauch für Persönlichkeitstest, Anzahl von Profilfotos, Durchschnittliche Anzahl von Nachrichten, Inhalt von Nachrichten (z.B Hyper-Link, E-Mail Adresse), Profilangaben wie Beruf, Alter, Verifizierung, usw.
     - Merkmal vom Klassifikationsproblem: Ungleichmäßige Daten
 - **Zeitprognose von drei verschiedenen Premium-Abos (6, 12, 24 Monate Laufzeit)**
 - **Analyse: Nutzer mit welchen Persönlichkeiten (Ergebnis vom Persönlichkeitstest) tendiert mehr zum Abschließen eines Premium-Abos?**
