@@ -55,7 +55,7 @@
 - Beim Testen des Apps habe ich selbst gemerkt, dass manche Nutzer mir Nachrichten mit E-Mail Adresse oder Instagram ID geschickt haben, um trotz des Basis-Abos weiter ins Gespräch zu kommen. 
 - Kundenbewertungen über das App: Die Anzahl von 1-Stern Bewertungen ist fast genauso hoch wie die 5-Stern Bewertungen, was ist aber beim ersten Blick sehr überraschend finde. Es liegt hauptsächlich auf die hohen Kosten und unflexiblen Laufdauer des Premium-Abos.
 - Wer ist die Zielgruppe? -> Premium-Abo EDA -> Auf Basis vom EDA Marketing-Strategien entwickeln, um die Zielgruppe gezielt anzusprechen.
-
+-  Erstnachrichten haben bei uns eine Mindestlänge und kopierte Inhalte können nicht verschickt werden.
 ### Matching-Ergebnis Hauptkategorien als Tabelle
 
 | Grundzüge der Persönlichkeit | Strebungen und Tendenzen| Alltagsgestaltung | Kommunikationsstil | 
