@@ -46,6 +46,8 @@
    - Daten zum üben: [Customer Subscription Data](https://www.kaggle.com/datasets/gsagar12/dspp1?select=customer_product.csv)
    - Kategorien beim Kundenservice: 
      Mein Profil, Fragenbogen&Ergebnis, Matches&Kontaktaufnahme, Login&Technik, Sicherheit&Seriösität, Angebot&Bestellung, Zahlung&Vertag
+     * Wenn genügend viel Text-Daten zu jeweiligen Kategorien zur Verfügung stehen, können wir aus den Daten ein entsprechendes Klassifikationsmodell entwickeln. Dies kann dann wiederum für die automatische Klassifizierung von Kundenbewertungen (Satz für Satz) angewendet werden. Somit können wir Kundenbewertungen nach Kategorien noch weiter einteilen. Danach können noch Sentimentanalyse folgen! *
+     
 - **A/B Testing mit Unschärfe (40%, 60%, 80%, usw...)**
 -------
 
