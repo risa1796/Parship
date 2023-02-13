@@ -4,6 +4,11 @@
 - [Reviews Crawling with BeautifulSoup](https://github.com/risa1796/Parship/blob/main/BeautifulSoup_Trustpilot_Parship.ipynb)
 ![Unknown](https://user-images.githubusercontent.com/70292353/218563479-9b78ef68-5e2c-4233-8a4e-38d60e6a2d98.png)
        - Web Crawling, Wordcloud, data visualization of customer reviews on monthly basis using stacked bar 
+       
+       
+#### - Klassifizierung von Kunden in vier Klassen (churn, potentielle churn, potentielle aktiv, aktiv)
+     - random Daten erstellen
+
 
 ----
 
