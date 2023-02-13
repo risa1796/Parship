@@ -1,5 +1,9 @@
 # ❤️‍🔥 PARSHIP
 
+### Codes
+- [Reviews Crawling with BeautifulSoup](https://github.com/risa1796/Parship/blob/main/BeautifulSoup_Trustpilot_Parship.ipynb)
+
+
 ### Ideen zu KI-Projekten
 
 - **Klassifikation von Fake-Profilen [Binäres Klassifikation]**
