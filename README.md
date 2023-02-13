@@ -3,7 +3,7 @@
 ### Codes
 - [Reviews Crawling with BeautifulSoup](https://github.com/risa1796/Parship/blob/main/BeautifulSoup_Trustpilot_Parship.ipynb)
 
-       - Web Crawling, Wordcloud, data visualization   
+       - Web Crawling, Wordcloud, data visualization of customer reviews on monthly basis using stacked bar 
 
 ----
 
